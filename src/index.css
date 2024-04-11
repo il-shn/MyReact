@@ -1,0 +1,15 @@
+ *{
+  box-sizing: border-box;
+}
+body{
+  min-width: 974px;
+  background-image: url("./images/background.jpeg");
+  background-color: #0F1219;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: #FFF;
+  font-family: Inter;
+  font-style: normal;
+  line-height: normal;
+}

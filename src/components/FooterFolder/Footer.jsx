@@ -5,7 +5,7 @@ import imgRain from './images/the rain.png'
 import imgLife from './images/life.png'
 import imgMoney from './images/money.png'
 import imgSquid from './images/squid.png'
-import style from './footer.css'
+import style from './footer.module.css'
 
 function Footer(){
 return (

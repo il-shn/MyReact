@@ -1,10 +1,10 @@
 import React from 'react';
-import style from './wrapper.css';
+import style from './wrapper.module.css';
 
 
 function Wrapper() {
     return(
-        <div className={style.content-wrapper}>
+        <div className={style.contentWrapper}>
 
         </div>
     )

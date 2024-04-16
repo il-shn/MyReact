@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
   }
-  .content-wrapper{
+  .contentWrapper{
     width: 90%;
     min-width: 875px;
     margin: 0 auto;

@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './headerstyle.css';
+import style from './css/headerstyle.module.css';
 import netflixlogo from './images/netflixlogo.png';
 import avatar from './images/girl.jpeg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
